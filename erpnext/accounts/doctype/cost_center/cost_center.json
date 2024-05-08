@@ -52,7 +52,7 @@
    "oldfieldname": "parent_cost_center",
    "oldfieldtype": "Link",
    "options": "Cost Center",
-   "reqd": 1
+   "reqd": 0
   },
   {
    "fieldname": "company",
